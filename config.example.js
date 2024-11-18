@@ -1,6 +1,6 @@
 /*
-𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
-𝐖𝐚 : +6281387307198
+𝐀𝐮𝐭𝐡𝐨𝐫 : 𝓡𝓲𝓸(リオ)🍃🌸
+𝐖𝐚 : +917636987434
 𝐛𝐚𝐬𝐞 : Narutomo & Elaina
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2022
 */
@@ -32,16 +32,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.pairing = '62xxxxx' // Number for pairing sessions
-global.owner = [['62xxxxx', 'ShirokamiRyzen', true]]
+global.pairing = '918134015876' // Number for pairing sessions
+global.owner = [['917636987434', '𝓡𝓲𝓸(リオ)🍃🌸', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '62xxxxx'
+global.nomorbot = '918134015876'
+global.nomorown = '917636987434'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
+global.author = '𝓡𝓲𝓸(リオ)🍃🌸'
 global.namebot = 'Nao-MD ESM'
 global.wm = '© Nao-MD By Shirokami Ryzen'
 global.watermark = wm

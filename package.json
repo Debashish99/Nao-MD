@@ -1,5 +1,5 @@
 {
-    "name": "shirokami-ryzen",
+    "name": "𝓡𝓲𝓸(リオ)🍃🌸",
     "version": "8.0.0",
     "description": "Nao-MD By Ryzen",
     "main": "index.js",
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js --autocleartmp --autoread",
         "test": "nodemon index.js --server --autocleartmp --autoread",
-        "mongodb": "node . --db 'url mongodbmu'"
+        "mongodb": "node . --db 'mongodb+srv://dpatar718:<deba1432>@rioyang25.6ehfa.mongodb.net/?retryWrites=true&w=majority&appName=Rioyang25'"
     },
     "keywords": [
         "termux-whatsapp-bot",
@@ -24,7 +24,7 @@
     ],
     "homepage": "https://github.com/ShirokamiRyzen",
     "author": {
-        "name": "ShirokamiRyzen"
+        "name": "𝓡𝓲𝓸(リオ)🍃🌸"
     },
     "repository": {
         "type": "git",
